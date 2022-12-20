@@ -1,7 +1,8 @@
 # Tensorflow Files for Beginner
-<img src="https://user-images.githubusercontent.com/76547274/208773940-13a85602-13b4-46a0-97cc-ff0f48529dc8.jpg" align=right>
 
 ### Motive
+<img src="https://user-images.githubusercontent.com/76547274/208773940-13a85602-13b4-46a0-97cc-ff0f48529dc8.jpg" align=right>
+
 - 🐱‍💻 To provide students who are beginning their journey with Tensorflow with some basic codes which they use for playing with architecture and attributes. 
 - 🎠 This can be considered as a *toy notebook* to play with tensorflow. This will make the beginners more friendly with Tensorflow so that they can understand concepts well.
 - 👩‍🎓👨‍🎓 To use this repository as a teaching aid in my bootcamp.
